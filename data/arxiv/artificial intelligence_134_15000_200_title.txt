@@ -1,0 +1,134 @@
+Seeding the Singularity for A.I
+Use of Artificial Intelligence Techniques / Applications in Cyber  Defense
+Artificial Intelligence for Interstellar Travel
+One Decade of Universal Artificial Intelligence
+Theory of Cognitive Relativity: A Promising Paradigm for True AI
+Edge Intelligence: Paving the Last Mile of Artificial Intelligence with  Edge Computing
+Artificial Intelligence and its Role in Near Future
+Enaction-Based Artificial Intelligence: Toward Coevolution with Humans  in the Loop
+Intelligence in Artificial Intelligence
+The SP Theory of Intelligence as a Foundation for the Development of a  General, Human-Level Thinking Machine
+Open Ended Intelligence: The individuation of Intelligent Agents
+An architecture for the evaluation of intelligent systems
+Analysis of first prototype universal intelligence tests: evaluating and  comparing AI algorithms and humans
+A Model for General Intelligence
+On the Measure of Intelligence
+Towards Self-constructive Artificial Intelligence: Algorithmic basis  (Part I)
+Robotics Rights and Ethics Rules
+An Unified Intelligence-Communication Model for Multi-Agent System  Part-I: Overview
+Why Artificial Intelligence Needs a Task Theory --- And What It Might  Look Like
+Comparison of Artificial Intelligence Techniques for Project Conceptual  Cost Prediction
+Landau Theory of Adaptive Integration in Computational Intelligence
+Affect Control Processes: Intelligent Affective Interaction using a  Partially Observable Markov Decision Process
+Improbotics: Exploring the Imitation Game using Machine Intelligence in  Improvised Theatre
+A Model for Web-Intelligence Index to Evaluate the Web Intelligence  Capacity of Government Web Sites of Sri Lanka
+Algorithms and Complexity Results for Persuasive Argumentation
+"Dave...I can assure you...that it's going to be all right..." -- A  definition, case for, and survey of algorithmic assurances in human-autonomy  trust relationships
+Hows and Whys of Artificial Intelligence for Public Sector Decisions:  Explanation and Evaluation
+Artificial Intelligence: A Child's Play
+Analysis of Algorithms and Partial Algorithms
+Artificial Immune Systems Tutorial
+Minimally Naturalistic Artificial Intelligence
+Focus Group on Artificial Intelligence for Health
+Neocortical plasticity: an unsupervised cake but no free lunch
+Autonomous robots and the SP theory of intelligence
+A World of Views: A World of Interacting Post-human Intelligences
+Intelligent User Interface in Fuzzy Environment
+Applying Artificial Intelligence and Internet Techniques in Rural  Tourism Domain
+The Future of Scientific Simulations: from Artificial Life to Artificial  Cosmogenesis
+Definition and properties to assess multi-agent environments as social  intelligence tests
+Single photon in hierarchical architecture for physical reinforcement  learning: Photon intelligence
+How to advance general game playing artificial intelligence by player  modelling
+Artificial Neural Networks-Based Machine Learning for Wireless Networks:  A Tutorial
+Can Autism be Catered with Artificial Intelligence-Assisted Intervention  Technology? A Literature Review
+Using Artificial Intelligence to Support Compliance with the General  Data Protection Regulation
+Wikistat 2.0: Educational Resources for Artificial Intelligence
+Designing Trustworthy AI: A Human-Machine Teaming Framework to Guide  Development
+Artificial Intelligence and the Future of Psychiatry: Qualitative  Findings from a Global Physician Survey
+Computing as compression: the SP theory of intelligence
+Towards the Augmented Pathologist: Challenges of Explainable-AI in  Digital Pathology
+Reputation in M2M Economy
+Artificial general intelligence through recursive data compression and  grounded reasoning: a position paper
+Lifelong Testing of Smart Autonomous Systems by Shepherding a Swarm of  Watchdog Artificial Intelligence Agents
+An electronic-game framework for evaluating coevolutionary algorithms
+CloudifierNet -- Deep Vision Models for Artificial Image Processing
+Can Turing machine be curious about its Turing test results? Three  informal lectures on physics of intelligence
+Intelligent Traffic Signal Control: Using Reinforcement Learning with  Partial Detection
+When Autonomous Intelligent Goodware will Fight Autonomous Intelligent  Malware: A Possible Future of Cyber Defense
+Past Visions of Artificial Futures: One Hundred and Fifty Years under  the Spectre of Evolving Machines
+Autonomous development and learning in artificial intelligence and  robotics: Scaling up deep learning to human--like learning
+Response to NITRD, NCO, NSF Request for Information on "Update to the  2016 National Artificial Intelligence Research and Development Strategic  Plan"
+Machine learning \& artificial intelligence in the quantum domain
+Provably Bounded-Optimal Agents
+Artificial Intelligence Based Cognitive Routing for Cognitive Radio  Networks
+The Morphospace of Consciousness
+Cognitive Database: A Step towards Endowing Relational Databases with  Artificial Intelligence Capabilities
+There is no Artificial General Intelligence
+From Crystallized Adaptivity to Fluid Adaptivity in Deep Reinforcement  Learning -- Insights from Biological Systems on Adaptive Flexibility
+Artificial Immune Systems
+Adaptive Parallel Iterative Deepening Search
+Elementos de ingeniería de explotación de la información aplicados  a la investigación tributaria fiscal
+The option pricing model based on time values: an application of the  universal approximation theory on unbounded domains
+A Distributed AI Aided 3D Domino Game
+A study on non-destructive method for detecting Toxin in pepper using  Neural networks
+The SP theory of intelligence: benefits and applications
+What is Learning? A primary discussion about information and  Representation
+AIXIjs: A Software Demo for General Reinforcement Learning
+Multimodal Intelligence: Representation Learning, Information Fusion,  and Applications
+Learning, Social Intelligence and the Turing Test - why an  "out-of-the-box" Turing Machine will not pass the Turing Test
+Deep RTS: A Game Environment for Deep Reinforcement Learning in  Real-Time Strategy Games
+How the symbol grounding of living organisms can be realized in  artificial agents
+Responses to a Critique of Artificial Moral Agents
+Artificial Intelligence Probes for Interstellar Exploration and  Colonization
+Novel Artificial Human Optimization Field Algorithms - The Beginning
+Automatic Programming of Cellular Automata and Artificial Neural  Networks Guided by Philosophy
+Causality and deceit: Do androids watch action movies?
+Evidence Feed Forward Hidden Markov Model: A New Type of Hidden Markov  Model
+Design and implementation of computational platform for social-humanoid  robot Lumen as an exhibition guide in Electrical Engineering Days 2015
+FML-based Dynamic Assessment Agent for Human-Machine Cooperative System  on Game of Go
+Intelligent Traffic Light Control Using Distributed Multi-agent Q  Learning
+Autonomous Intelligent Cyber-defense Agent (AICA) Reference  Architecture. Release 2.0
+The Responsibility Quantification (ResQu) Model of Human Interaction  with Automation
+OpenEI: An Open Framework for Edge Intelligence
+Random Worlds and Maximum Entropy
+A Uniform Framework for Concept Definitions in Description Logics
+Synthesizing Customized Planners from Specifications
+An Average Analysis of Backtracking on Random Constraint Satisfaction  Problems
+The tractability of CSP classes defined by forbidden patterns
+Implementing Human-like Intuition Mechanism in Artificial Intelligence
+Use of Markov Chains to Design an Agent Bidding Strategy for Continuous  Double Auctions
+Merging Knowledge Bases in Possibilistic Logic by Lexicographic  Aggregation
+A Study of Scaling Issues in Bayesian Belief Networks for Ship  Classification
+A Bayesian Variant of Shafer's Commonalities For Modelling Unforeseen  Events
+An Empirical Evaluation of a Randomized Algorithm for Probabilistic  Inference
+A Decision-Theoretic Model for Using Scientific Data
+Geospatial Narratives and their Spatio-Temporal Dynamics: Commonsense  Reasoning for High-level Analyses in Geographic Information Systems
+GOTCHA Password Hackers!
+Prime Implicates and Prime Implicants: From Propositional to Modal Logic
+Case-Based Subgoaling in Real-Time Heuristic Search for Video Game  Pathfinding
+Online Speedup Learning for Optimal Planning
+Ethical Artificial Intelligence
+The Limitations of Standardized Science Tests as Benchmarks for  Artificial Intelligence Research: Position Paper
+Using Automated Theorem Provers to Teach Knowledge Representation in  First-Order Logic
+Some Epistemological Problems with the Knowledge Level in Cognitive  Architectures
+Meta-learning within Projective Simulation
+Tracing Linguistic Relations in Winning and Losing Sides of Explicit  Opposing Groups
+Multi-step Reinforcement Learning: A Unifying Algorithm
+A Popperian Falsification of Artificial Intelligence - Lighthill  Defended
+Receptor uptake arrays for vitamin B12, siderophores and glycans shape  bacterial communities
+How Important is Syntactic Parsing Accuracy? An Empirical Evaluation on  Rule-Based Sentiment Analysis
+Towards a Deep Reinforcement Learning Approach for Tower Line Wars
+Null Dynamical State Models of Human Cognitive Dysfunction
+Augmented Artificial Intelligence: a Conceptual Framework
+A comparative study of artificial intelligence and human doctors for the  purpose of triage and diagnosis
+Deep Reinforcement One-Shot Learning for Artificially Intelligent  Classification Systems
+A Survey of Conventional and Artificial Intelligence / Learning based  Resource Allocation and Interference Mitigation Schemes in D2D Enabled  Networks
+Making BREAD: Biomimetic strategies for Artificial Intelligence Now and  in the Future
+Artificial Intelligence Assisted Infrastructure Assessment Using Mixed  Reality Systems
+Human-AI Learning Performance in Multi-Armed Bandits
+Reverse-Engineering Satire, or "Paper on Computational Humor Accepted  Despite Making Serious Advances"
+Artificial Intelligence for Pediatric Ophthalmology
+Artificial Intelligence as a Services (AI-aaS) on Software-Defined  Infrastructure
+DaiMoN: A Decentralized Artificial Intelligence Model Network
+CAI4CAI: The Rise of Contextual Artificial Intelligence in Computer  Assisted Interventions
+Artificial Intelligence for Low-Resource Communities: Influence  Maximization in an Uncertain World
